@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" AutodeskProduct="Revit" Name="AC_Extension" Description="AC_Extension" AppVersion="2016.0.0" ProductType="Application" HelpFile="./Contents/Resources/help.txt" SupportedLocales="Enu" AppNameSpace="appstore.exchange.autodesk.com" Author="REX" ProductCode="00000000-CA41-470B-8CAF-9BF90D77D1F0" UpgradeCode="00000000-3EE1-4FEE-8C0B-5D772EA6F6BD" Icon="./Contents/Module/Configuration/REX.png" OnlineDocumentation="">
+  <CompanyDetails Name="MyVendor" Url="" Email="" Phone=" " />
+  <RuntimeRequirements OS="Win32|Win64" Platform="Revit Architecture|Revit Structure|Revit|Revit MEP" SeriesMin="R2016" SeriesMax="R2016" />
+  <Components>
+    <RuntimeRequirements OS="Win32|Win64" Platform="Revit" SeriesMin="R2016"/>
+    <ComponentEntry AppName="AC_Extension" ModuleName="./Contents/AC_Extension.addin"> </ComponentEntry>
+  </Components>
+</ApplicationPackage>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AC_Extension</Name>
+    <Assembly>Module\AC_Extension.dll</Assembly>
+    <AddInId>a0aed6f5-08f8-4b59-926c-a99ea44994e8</AddInId>
+    <FullClassName>REX.AC_Extension.DirectRevitExternalApplication</FullClassName>
+    <Text>AC_Extension</Text>
+    <Description>AC_Extension</Description>
+    <VendorId>MyVendor</VendorId>
+    <VendorDescription>My vendor</VendorDescription>
+  </AddIn>
+</RevitAddIns>

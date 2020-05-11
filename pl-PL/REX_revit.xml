@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options product="REX" name="REX">
+	<option name="MyCategory" description="My category" description_full="My category" version="" domain="" date="">
+		<option name="AC_Extension" description="AC_Extension" description_full="AC_Extension" version="0.5" domain="" date="" type="">
+		  <data>
+			<data.run type="ASSEMBLY" path="AC_Extension" file="AC_Extension.dll" class="REX.AC_Extension.Application" direct_revit_class="REX.AC_Extension.DirectRevitAccess"/>
+		  </data>
+		</option>
+	</option>
+</options>

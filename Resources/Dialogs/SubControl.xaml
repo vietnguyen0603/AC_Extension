@@ -1,0 +1,10 @@
+<rexf:REXExtensionControl x:Class="REX.AC_Extension.Resources.Dialogs.SubControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:rexf="clr-namespace:REX.Common;assembly=REX.Foundation.WPF"
+    xmlns:rexc="clr-namespace:REX.Controls.WPF;assembly=REX.Controls.WPF"                          
+    Height="300" Width="500">
+    <Grid>
+        
+    </Grid>
+</rexf:REXExtensionControl>
